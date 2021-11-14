@@ -1,0 +1,3 @@
+Nombre bd = peluqueria_canina
+User = peluqueria
+Password = 123456
